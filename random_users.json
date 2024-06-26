@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Max Ostafiichuk",
+        "age": 20,
+        "email": "ostafiichukmaks@gmail.com",
+        "password": "12345678"
+    },
+    {
+        "id": 2,
+        "name": "Amber Perez",
+        "age": 41,
+        "email": "thomas18@example.net",
+        "password": "12345678"
+    },
+    {
+        "id": 3,
+        "name": "Beverly Douglas",
+        "age": 42,
+        "email": "vcollins@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Brian Garcia",
+        "age": 75,
+        "email": "olivia44@example.net"
+    },
+    {
+        "id": 5,
+        "name": "Jenny Jackson",
+        "age": 46,
+        "email": "lstone@example.org"
+    },
+    {
+        "id": 6,
+        "name": "Wendy Johnson",
+        "age": 83,
+        "email": "vaughangeorge@example.net"
+    },
+    {
+        "id": 7,
+        "name": "Lisa Owens",
+        "age": 55,
+        "email": "zwright@example.com"
+    },
+    {
+        "id": 8,
+        "name": "Michael Mccoy",
+        "age": 58,
+        "email": "bryanmorris@example.org"
+    },
+    {
+        "id": 9,
+        "name": "Stephanie Baldwin",
+        "age": 72,
+        "email": "apotts@example.org"
+    },
+    {
+        "id": 10,
+        "name": "Timothy Mendoza",
+        "age": 39,
+        "email": "maria00@example.net"
+    }
+]
